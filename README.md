@@ -2,7 +2,7 @@
 Hi there. I'm Martín Calderón Full Stack Web Developer 👋
 
 ### Work Skills
-My work skills include proficiency in various programming languages and technologies such as
+My work skills include proficiency in various programming languages and technologies such as:
 ###
 [![Proffesiona Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,vuejs,wordpress,js,php,bootstrap,css,html,mysql,figma,xd,vscode)](https://skillicons.dev)
 ### Hobbie Skills
