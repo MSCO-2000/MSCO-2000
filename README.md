@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Laravel | React | Node.js | Vue.js
 <!--
 **DSW-47/DSW-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
