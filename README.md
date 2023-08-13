@@ -1,7 +1,7 @@
 ### Hi there 👋
 Laravel | React | Node.js | Vue.js
 
-![color picker](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRpdjBseXh5YzJldjQ4dXY5M3Z6ZXJhZmRxZGtnZXhlb3BtMHM2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AicYkNaOb0JbbWQKMm/200.gif)
+![image](https://github.com/DSW-47/DSW-47/assets/71650407/fb8786db-86cd-4477-b566-4eff8a47f68a)
 <!--
 **DSW-47/DSW-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
