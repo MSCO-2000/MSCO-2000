@@ -1,7 +1,7 @@
 ### Hi there 👋
 Laravel | React | Node.js | Vue.js
 
-![color picker](https://thumbs.gfycat.com/CraftyCircularBeauceron-small.gif)
+![color picker](https://i.gifer.com/J0xw.gif)
 <!--
 **DSW-47/DSW-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
