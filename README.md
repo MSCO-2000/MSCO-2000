@@ -15,32 +15,60 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 
 ### Github Stats ⚡
 <p align=center>
-  <div align=center>
+  <!-- stats -->
+  <div align=left>
     <a href="https://github.com/DSW-47" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user==DSW-47&theme=dracula&border=61dafb&hide_border=true" alt="=DSW-47" />
-    </a>
-    <a href="https://github.com/DSW-47" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username==DSW-47&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
-    </a>
-    </a>
+      
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsw-47\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true&pretty=true&rank_icon=github)
+
+        
+  </a>
+  <a href="https://github.com/DSW-47" title="Go to Source">
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&langs_count=8&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=pie" alt="=DSW-47" /> 
+  </a>
+    <!-- Languages -->
   </div>
-  <br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/DSW-47" title="Go to Source">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username==DSW-47&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <div align=center>
-    <!--Profile views-->
-    <a href="https://github.com/DSW-47">
-      <img src="https://visitcount.itsvg.in/api?id=DSW-47&label=Profile%20Views&color=0&icon=6&pretty=true" />
-    </a>
-  </div>
+
+
 </p>
 
 
-> Transcend fear. Embrace pain. Demonstrate your strength to survive.
+
+  <!-- Repo -->
+<div align=center>
+    <a href="https://github.com/DSW-47" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=DSW-47&repo=DSW-47&show_owner=true&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="=DSW-47" /> 
+    </a>
+</div>
+
+<br>
+
+<!-- wakatime big -->
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dsw47&show_icons=true&theme=radical&hide_border=true&pretty=true)
+
+
+<!-- visit counts -->
+<div align=left>
+  <a href="https://github.com/DSW-47">
+    <img src="https://visitcount.itsvg.in/api?id=DSW-47&label=Profile%20Views&color=0&icon=6" />
+  </a>
+</div>
+
+<!--- wakatime small -->
+<a href="https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b"><img src="https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg" alt="Total time coded since Aug 15 2023" /></a>
+
+<details>
+  <summary>More Stats</summary>
+  <a href="https://github.com/DSW-47" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="=DSW-47" /> 
+  </a>
+  <a href="https://github.com/DSW-47" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dsw-47&rank_icon=percentile&include_all_commits=true" alt="=DSW-47" /> 
+  </a>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)
+</details>
+
 
 
 <!--
