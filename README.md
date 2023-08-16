@@ -69,7 +69,7 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
     <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="=DSW-47" /> 
   </a>
   <a href="https://github.com/DSW-47" title="Go to Source">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dsw-47&rank_icon=percentile&include_all_commits=true" alt="=DSW-47" /> 
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dsw-47&rank_icon=percentile" alt="=DSW-47" /> 
   </a>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)
