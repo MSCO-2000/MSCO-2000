@@ -30,8 +30,15 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 
    
   </a>
+  
   </div>
+  <div align=center>
     <!-- Languages -->
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47\&layout=donut-vertical&show_icons=true&theme=radical&hide_border=true&pretty=true)
+
+
+
   </div>
 
 
@@ -39,6 +46,19 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 
 
 
+
+<details>
+  <summary>More Stats (Pending)</summary>
+  <a href="https://github.com/DSW-47" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="=DSW-47" /> 
+  </a>
+  <a href="https://github.com/DSW-47" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dsw-47&rank_icon=percentile" alt="=DSW-47" /> 
+  </a>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)
+
+  
   <!-- Repo -->
 <div align=center>
     <a href="https://github.com/DSW-47" title="Go to Source">
@@ -62,17 +82,6 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 
 <!--- wakatime small -->
 <a href="https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b"><img src="https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg" alt="Total time coded since Aug 15 2023" /></a>
-
-<details>
-  <summary>More Stats</summary>
-  <a href="https://github.com/DSW-47" title="Go to Source">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="=DSW-47" /> 
-  </a>
-  <a href="https://github.com/DSW-47" title="Go to Source">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dsw-47&rank_icon=percentile" alt="=DSW-47" /> 
-  </a>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)
 </details>
 
 
