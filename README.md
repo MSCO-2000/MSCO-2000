@@ -18,13 +18,16 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
   <!-- stats -->
   <div align=left>
     <a href="https://github.com/DSW-47" title="Go to Source">
-      
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsw-47\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true&pretty=true&rank_icon=github)
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
+
 
         
   </a>
   <a href="https://github.com/DSW-47" title="Go to Source">
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&langs_count=8&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=pie" alt="=DSW-47" /> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsw-47\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true&pretty=true&rank_icon=github)
+
+   
   </a>
     <!-- Languages -->
   </div>
@@ -48,9 +51,10 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 
 
 <!-- visit counts -->
+
 <div align=left>
   <a href="https://github.com/DSW-47">
-    <img src="https://visitcount.itsvg.in/api?id=DSW-47&label=Profile%20Views&color=0&icon=6" />
+    <img src="https://visitcount.itsvg.in/api?id=DSW-47&label=Profile%20Views&color=0" />
   </a>
 </div>
 
