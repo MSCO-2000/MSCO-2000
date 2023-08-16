@@ -23,12 +23,14 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 
         
   </a>
+  <div aling=right>
   <a href="https://github.com/DSW-47" title="Go to Source">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsw-47\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=true&pretty=true&rank_icon=github)
 
    
   </a>
+  </div>
     <!-- Languages -->
   </div>
 
