@@ -5,7 +5,7 @@ Hi there. I'm Martín Calderón Full Stack Web Developer 👋
 My work skills include proficiency in various programming languages and technologies such as:
 ###
 [![Proffesiona Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,vuejs,wordpress,js,php,bootstrap,css,html,mysql,figma,xd,vscode)](https://skillicons.dev)
-### Hobbie Skills
+### Hobby Skills
 In my free time, I enjoy enhancing my hobby skills by learning new programming languages and technologies like:
 ###
 [![My Skills](https://skillicons.dev/icons?i=electron,java,cs,cpp,unity)](https://skillicons.dev)
@@ -18,7 +18,7 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
   <!-- stats -->
   <div align=center>
     <a href="https://github.com/DSW-47" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
 
 
         
