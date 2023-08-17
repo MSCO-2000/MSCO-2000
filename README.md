@@ -11,8 +11,9 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 [![My Skills](https://skillicons.dev/icons?i=electron,java,cs,cpp,unity)](https://skillicons.dev)
 ####
 <div align=center>
-  
-![image](https://github.com/DSW-47/DSW-47/assets/71650407/1f489dac-8482-4198-88f9-c978e17f4431)
+   <a href="https://github.com/DSW-47" title="Go to Source">
+      <img align="center" width=600 src="https://raw.githubusercontent.com/DSW-47/DSW-47/main/hello-world.gif" />
+    </a>
 
 </div>
 
