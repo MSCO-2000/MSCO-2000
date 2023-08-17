@@ -51,3 +51,5 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 
 </div>
 
+> Transcend fear. Embrace pain. Demonstrate your strength to survive.
+
