@@ -25,8 +25,11 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
 </div>
 
 
-### Github Stats ⚡
+
 <div align=center>
+  
+  ### Github Stats ⚡
+  
   <!-- mi perfil stats de racha-->
 
   <a href="https://github.com/DSW-47" title="Go to Source">
