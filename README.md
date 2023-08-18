@@ -40,7 +40,6 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
     <img  width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
   </a>
 
-
  <!-- mi perfil commits git con icono github-->
 
   <a align=right href="https://github.com/DSW-47" title="Go to Source">
@@ -49,10 +48,12 @@ In my free time, I enjoy enhancing my hobby skills by learning new programming l
   </div>
 <br/>
 <div align=center>
-    <!-- Languages chart mediano -->
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47\&layout=donut-vertical&show_icons=true&theme=radical&hide_border=true&pretty=true)
 
+
+<!-- mini lenguajes de programaacion git-->
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)
+  
 </div>
 
 > Transcend fear. Embrace pain. Demonstrate your strength to survive.
