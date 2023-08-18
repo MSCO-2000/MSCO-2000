@@ -5,7 +5,7 @@
    </a>
 </div>
 Hi there. I'm Martín Calderón Full Stack Web Developer 👋
-I'm a 23 years old web developer who's passionate about tech and art.
+I'm a 23-years-old web developer who's passionate about all forms of virtual art creation. There's nothing that fascinates me more than well-structured systems that not only function but also have something profound to communicate to the world.
 <br/><br/>
 
 ### Work Skills
