@@ -4,7 +4,7 @@
   <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
    </a>
 </div>
-Hi there. I'm Martín Calderón 23-years-old Full Stack Web Developer 👋 who's passionate about all forms of virtual art creation. There's nothing that fascinates me more than well-structured systems that not only function but also have something profound to communicate to the world.
+Hi there. I'm Martín Calderón a 23-years-old Full Stack Web Developer 👋 who's passionate about all forms of virtual art creation. There's nothing that fascinates me more than well-structured systems that not only function but also have something profound to communicate to the world.
 <br/><br/>
 
 ### Work Skills
