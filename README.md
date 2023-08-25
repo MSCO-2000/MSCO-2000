@@ -15,7 +15,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 ### Work Skills
 My work skills include proficiency in various programming languages and technologies such as:
 ###
-[![Proffesiona Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,vuejs,wordpress,js,php,bootstrap,css,html,mysql,figma,xd,vscode)](https://skillicons.dev)
+[![Proffesiona Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,vuejs,wordpress,js,php,tailwind,bootstrap,css,html,mysql,figma,xd,vscode)](https://skillicons.dev)
 ### Hobby Skills
 In my free time, I enjoy enhancing my hobby skills by learning new programming languages and technologies like:
 ###
