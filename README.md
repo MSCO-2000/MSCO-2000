@@ -13,13 +13,20 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 <br/><br/>
 
 ### Work Skills
-My work skills include proficiency in various programming languages and technologies such as:
-###
-[![Proffesiona Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,vuejs,wordpress,js,php,tailwind,bootstrap,css,html,mysql,figma,xd,vscode)](https://skillicons.dev)
-### Hobby Skills
-In my free time, I enjoy enhancing my hobby skills by learning new programming languages and technologies like:
-###
-[![My Skills](https://skillicons.dev/icons?i=electron,java,cs,cpp,unity)](https://skillicons.dev)
+- #### Main
+  The set of technologies I predominantly employ includes:
+  
+  [![](https://skillicons.dev/icons?i=react,laravel,vuejs,js,php,tailwind,bootstrap,mysql,figma,vscode)](https://skillicons.dev)
+
+- #### Secondary
+  In addition to the programming technologies I use regularly, I also feel comfortable working occasionally with this set of technologies that I handle proficiently:
+
+  [![](https://skillicons.dev/icons?i=nodejs,wordpress,css,html,xd)](https://skillicons.dev)
+
+- #### Hobby
+  In my free time, I enjoy enhancing my hobby skills by learning new programming languages and random technologies like:
+
+  [![](https://skillicons.dev/icons?i=electron,java,cs,cpp,unity,python)](https://skillicons.dev)
 ####
 
 <div align=center>
