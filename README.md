@@ -46,22 +46,24 @@ Take a look at my online portfolio: https://CalderonWorks.pro
     <img  width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
   </a>
 
- <!-- mi perfil commits git con icono github-->
+ <!-- Mini  Lenguajes programación-->
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)  
 
-  <a align=right href="https://github.com/DSW-47" title="Go to Source">
-    <img  width=390 src="https://github-readme-stats.vercel.app/api?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true&rank_icon=github" alt="=DSW-47" /> 
-  </a>
+</div>
+  
   </div>
 <br/>
 <div align=center>
 
+<!-- wakatime -->
+  <!-- 30 dias-->
+  <figure><embed src="https://wakatime.com/share/@dsw47/74f0f82d-4bfd-46f4-aeba-e8cf12cb39a7.svg"></embed></figure>  
 
-<!-- mini lenguajes de programaacion git-->
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)
-  
-</div>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dsw47/74f0f82d-4bfd-46f4-aeba-e8cf12cb39a7.svg"  style="width:450px;" /></a>
+
+
+<a href="https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b"><img src="https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg" alt="Total time coded since Aug 15 2023" /></a>
 
 > Transcend fear. Embrace pain. Demonstrate your strength to survive.
-
-<!--a-->
