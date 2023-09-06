@@ -63,4 +63,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
     <img  width=800 src="https://wakatime.com/share/@dsw47/d472e67b-0d70-4ec6-bbb1-e9712bab20f2.svg" alt="DSW-47" />
   </a>
 
+</div>
+
 > Transcend fear. Embrace pain. Demonstrate your strength to survive.
