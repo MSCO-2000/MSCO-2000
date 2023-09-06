@@ -40,20 +40,21 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <!-- mi perfil stats de racha-->
 
   <a target="_blank" rel="noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true"   title="Go to Source">
-    <img align=left width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
+    <img align=left height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
   </a>
-
+  
  <!-- Mini  Lenguajes programación-->
-<div align=right>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw-47\&layout=compact&show_icons=true&theme=radical&hide_border=true&pretty=true)  
+  <div align=right>
 
-</div>
+  <a target="_blank" rel="noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=compact"   title="Go to Source">
+    <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=compact" alt="DSW-47" />
+  </a>
+  
+  </div>
 
 </div>
   
-  </div>
-<br/>
+
 <div align=center>
 
 <!-- wakatime -->
@@ -62,7 +63,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <a target="_blank" rel="noreferrer" href="https://wakatime.com/share/@dsw47/d472e67b-0d70-4ec6-bbb1-e9712bab20f2.svg" title="View full size">
     <img  width=800 src="https://wakatime.com/share/@dsw47/d472e67b-0d70-4ec6-bbb1-e9712bab20f2.svg" alt="DSW-47" />
   </a>
-
+  
+> Transcend fear. Embrace pain. Demonstrate your strength to survive.
 </div>
 
-> Transcend fear. Embrace pain. Demonstrate your strength to survive.
