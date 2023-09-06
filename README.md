@@ -30,7 +30,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 ####
 
 <div align=center>
-   <a href="https://github.com/DSW-47" title="Go to Source">
+   <a href="https://github.com/DSW-47" target="_blank" rel="noreferrer"  title="Go to Source">
       <img align="center" width=800 src="https://github.com/DSW-47/DSW-47/assets/71650407/fb8786db-86cd-4477-b566-4eff8a47f68a" />
     </a>
 </div>
@@ -42,7 +42,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   
   <!-- mi perfil stats de racha-->
 
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" title="Go to Source">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" target="_blank" rel="noreferrer"  title="Go to Source">
     <img align=left width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
   </a>
 
