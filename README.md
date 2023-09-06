@@ -10,21 +10,18 @@ Hi there 👋. I'm Martín Calderón a 23-years-old Full Stack Web Developer who
 Follow me on my social media: https://linktr.ee/martin_calderon
 <br/>
 Take a look at my online portfolio: https://CalderonWorks.pro
-<br/><br/>
+<br/>
 
 ### Work Skills
-- #### Main
-  The set of technologies I predominantly employ includes:
+- #### Main: The set of technologies I predominantly employ includes:
   
   [![](https://skillicons.dev/icons?i=react,laravel,vuejs,js,php,tailwind,bootstrap,mysql,figma,vscode)](https://skillicons.dev)
 
-- #### Secondary
-  In addition to the programming technologies I use regularly, I also feel comfortable working occasionally with this set of technologies that I handle proficiently:
+- #### Secondary: In addition to the programming technologies I use regularly, I also feel comfortable working occasionally with this set of technologies that I handle proficiently:
 
   [![](https://skillicons.dev/icons?i=nodejs,wordpress,css,html,xd)](https://skillicons.dev)
 
-- #### Hobby
-  In my free time, I enjoy enhancing my hobby skills by learning new programming languages and random technologies like:
+- #### Hobby: In my free time, I enjoy enhancing my hobby skills by learning new programming languages and random technologies like:
 
   [![](https://skillicons.dev/icons?i=electron,java,cs,cpp,unity,python)](https://skillicons.dev)
 ####
