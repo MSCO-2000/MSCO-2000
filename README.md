@@ -60,5 +60,20 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <!-- 30 dias-->
 ![Nombre Descriptivo](https://wakatime.com/share/@dsw47/205e9e7b-52cb-4ebd-a951-e96619200b15.svg)
 
+<script>
+$.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@dsw47/748daae6-5517-45ba-b3a6-9d357d11fd6c.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
+</script>
+
+<!-- Custom JavaScript files set in YAML front matter -->
+
+<script async type="text/javascript" src="{{ ./js.js }}"></script>
+
 
 > Transcend fear. Embrace pain. Demonstrate your strength to survive.
