@@ -58,22 +58,9 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
 <!-- wakatime -->
   <!-- 30 dias-->
-![Nombre Descriptivo](https://wakatime.com/share/@dsw47/205e9e7b-52cb-4ebd-a951-e96619200b15.svg)
 
-<script>
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@dsw47/748daae6-5517-45ba-b3a6-9d357d11fd6c.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
-</script>
-
-<!-- Custom JavaScript files set in YAML front matter -->
-
-<script async type="text/javascript" src="{{ ./js.js }}"></script>
-
+  <a href="[https://github.com/DSW-47](https://wakatime.com/share/@dsw47/d472e67b-0d70-4ec6-bbb1-e9712bab20f2.svg)" title="View full size">
+    <img  width=800 src="https://wakatime.com/share/@dsw47/d472e67b-0d70-4ec6-bbb1-e9712bab20f2.svg" alt="DSW-47" />
+  </a>
 
 > Transcend fear. Embrace pain. Demonstrate your strength to survive.
