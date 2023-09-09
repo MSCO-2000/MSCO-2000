@@ -63,6 +63,8 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <a target="_blank" rel="noreferrer" href="https://wakatime.com/share/@dsw47/d472e67b-0d70-4ec6-bbb1-e9712bab20f2.svg" title="View full size">
     <img  width=800 src="https://wakatime.com/share/@dsw47/d472e67b-0d70-4ec6-bbb1-e9712bab20f2.svg" alt="DSW-47" />
   </a>
+
+  [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
   
 > Transcend fear. Embrace pain. Demonstrate your strength to survive.
 </div>
