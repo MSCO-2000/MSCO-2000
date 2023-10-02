@@ -65,7 +65,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   </a>
 
   [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
-  
-> Transcend fear. Embrace pain. Demonstrate your strength to survive.
+
+  >
 </div>
 
