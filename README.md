@@ -45,11 +45,9 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   
  <!-- Mini  Lenguajes programación-->
   <div align=right>
-
   <a target="_blank" rel="noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=compact"   title="Go to Source">
     <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=compact" alt="DSW-47" />
   </a>
-  
   </div>
 
 </div>
