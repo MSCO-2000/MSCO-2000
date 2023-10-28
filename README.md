@@ -4,7 +4,7 @@
   <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
    </a>
 </div>
-Hi there 👋. I'm Martín Calderón a 23-years-old Full Stack Web Developer who's passionate about all forms of virtual art creation. There's nothing that fascinates me more than well-structured systems that not only function but also have something profound to communicate to the world.
+Hi there 👋. I am 23-years-old Software Development Engineer about to graduate and I am also a Full Stack Web Developer passionate about all forms of virtual art creation. I would like to demonstrate through my efforts that software is not merely cold and mechanical logic; it's not just a tool, but it has the potential to become something authentically artistic, fascinating, and brimming with identity. Software is not a thing of tomorrow; it's of today
 <br/>
 <br/>
 Follow me on my social media: https://linktr.ee/martin_calderon
