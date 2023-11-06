@@ -40,7 +40,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
 <div align=center>
   
-  ### Github Stats ⚡
+  ### ⚡ Github Stats ⚡
   
   <!-- mi perfil stats de racha-->
  <div align=center>
