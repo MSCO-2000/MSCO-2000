@@ -28,7 +28,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
 - #### Hobby: In my free time, I enjoy enhancing my hobby skills by learning new programming languages and random technologies like:
 
-  [![](https://skillicons.dev/icons?i=java,cs,cpp,unity,python,java,cpp)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=java,cs,cpp,unity,python)](https://skillicons.dev)
 ####
 
 <div align=center>
