@@ -19,12 +19,12 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
 ### Work Skills
 - #### Main: The set of languages and tools I predominantly employ includes:
-  [![](https://skillicons.dev/icons?i=react,nodejs,js,bootstrap,mysql,html,css,git,figma,vscode,postman)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=react,nodejs,laravel,js,bootstrap,mysql,html,css,git,figma,vscode,postman)](https://skillicons.dev)
 
 
 - #### Secondary: In addition I also feel comfortable working occasionally with this set of technologies that I handle proficiently:
 
-  [![](https://skillicons.dev/icons?i=laravel,vue,tailwind,php,wordpress,electron,xd)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=vue,tailwind,php,wordpress,electron,xd)](https://skillicons.dev)
 
 - #### Hobby: In my free time, I enjoy enhancing my hobby skills by learning new programming languages and random technologies like:
 
