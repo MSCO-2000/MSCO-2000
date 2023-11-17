@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín Calderón</h1>
-<h3 align="center">A passionate Full Stack Developer from México</h3>
+<h3 align="center">Full Stack Developer from México</h3>
 
 ### Welcome!
 <div>
