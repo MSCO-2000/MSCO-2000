@@ -57,6 +57,12 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   </div>
 
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snk.svg" />
+  <img alt="github-snake" src="./snk.svg" />
+</picture>
   
 
 <div align=center>
