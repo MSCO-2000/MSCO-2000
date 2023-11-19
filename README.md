@@ -47,9 +47,9 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   
   <!-- mi perfil stats de racha-->
  <div align=center>
-    <a target="_blank" align=center rel="noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&theme=tokyonight&show_icons=true&hide_border=true&pretty=true"   title="Go to Source">
-     <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
-    </a>
+  
+   <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
+ 
 
   
  <!-- Mini  Lenguajes programación-->
