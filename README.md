@@ -42,30 +42,40 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 <div align=center>
   
   ### ⚡ Github Stats ⚡
+
+<img src="https://myreadme.vercel.app/api/embed/DSW-47?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   
   <!-- mi perfil stats de racha-->
  <div align=center>
-    <a target="_blank" align=center rel="noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true"   title="Go to Source">
-     <img  height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true" alt="DSW-47" />
+    <a target="_blank" align=center rel="noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&theme=tokyonight&show_icons=true&hide_border=true&pretty=true"   title="Go to Source">
+     <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
     </a>
+
   
  <!-- Mini  Lenguajes programación-->
 
-  <a target="_blank" align=center rel="noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=compact"   title="Go to Source">
-    <img  height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=radical&hide_border=true&pretty=true&layout=compact" alt="DSW-47" />
+  <a target="_blank" align=center rel="noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact"   title="Go to Source">
+    <img  height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSW-47&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact" alt="DSW-47" />
   </a>
   </div>
 
 </div>
 
 
+
+
+
+
+
+<div align=center>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./snk.svg" />
   <img alt="github-snake" src="./snk.svg" />
 </picture>
-  
 
-<div align=center>
+![Metrics](https://metrics.lecoq.io/DSW-47?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=DSW-47&theme=juicyfresh&no-bg=true" />  
 
 <!-- wakatime -->
   <!-- 30 dias-->
@@ -76,7 +86,14 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
   [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
 
-  >
+  <img src="https://img.shields.io/github/stars/DSW-47?label=Stars" alt="stars">
+
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+  <img src="https://profile-counter.glitch.me/{DSW-47}/count.svg" alt="DSW-47 :: Visitor's Count" />
+
+
+  
 </div>
 
 <details align=center>
