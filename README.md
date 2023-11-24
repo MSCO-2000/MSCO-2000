@@ -108,10 +108,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
   <img src="https://img.shields.io/github/stars/DSW-47?label=Stars" alt="stars">
 
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
   <img src="https://profile-counter.glitch.me/{DSW-47}/count.svg" alt="DSW-47 :: Visitor's Count" />
-
 
   
 </div>
@@ -119,8 +116,11 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 <details align=center>
 <summary>Extra</summary>
 
+ <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 [id1]: ## "tooltip"
 This is a [tooltip][id1] example.
+ 
 
 </details>
 
