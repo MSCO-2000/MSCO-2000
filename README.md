@@ -108,6 +108,8 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
   <img src="https://img.shields.io/github/stars/DSW-47?label=Stars" alt="stars">
 
+
+  Profile visualizations:
   <img src="https://profile-counter.glitch.me/{DSW-47}/count.svg" alt="DSW-47 :: Visitor's Count" />
 
   
