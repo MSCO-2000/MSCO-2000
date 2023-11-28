@@ -1,5 +1,4 @@
-<hr/>
-<h1 align="center">Hi 👋, I'm Martín Calderón</h1>
+<h1 align="center">Hi 👾, I'm Martín Calderón</h1>
 <h3 align="center">Full Stack Developer from México</h3>
 
 ### Welcome!
