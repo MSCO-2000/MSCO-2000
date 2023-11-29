@@ -57,9 +57,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ####
 
-
-<br/>
-
 <div align=center>
   
   ### ⚡ Github Stats ⚡
@@ -94,7 +91,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <img alt="github-snake" src="./snk.svg" />
 </picture>
 
-![Metrics](https://metrics.lecoq.io/DSW-47?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
   
   <img src="https://github-profile-trophy.vercel.app/?username=DSW-47&theme=juicyfresh&no-bg=true" />  
 
@@ -114,6 +111,8 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 <summary>Extra</summary>
 
  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+![Metrics](https://metrics.lecoq.io/DSW-47?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 [id1]: ## "tooltip"
 This is a [tooltip][id1] example.
