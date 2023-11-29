@@ -1,3 +1,9 @@
+<div align=center>
+   <a target="_blank" rel="noreferrer" href="https://github.com/DSW-47"   title="Go to Source">
+      <img align="center" width=800 src="https://github.com/DSW-47/DSW-47/assets/71650407/fb8786db-86cd-4477-b566-4eff8a47f68a" />
+    </a>
+</div>
+
 <h1 align="center">Hi 👾, I'm Martín Calderón</h1>
 <h3 align="center">Full Stack Developer from México</h3>
 
@@ -51,11 +57,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ####
 
-<div align=center>
-   <a target="_blank" rel="noreferrer" href="https://github.com/DSW-47"   title="Go to Source">
-      <img align="center" width=800 src="https://github.com/DSW-47/DSW-47/assets/71650407/fb8786db-86cd-4477-b566-4eff8a47f68a" />
-    </a>
-</div>
+
 <br/>
 
 <div align=center>
