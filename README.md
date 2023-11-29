@@ -1,6 +1,6 @@
 <div align=center>
    <a target="_blank" rel="noreferrer" href="https://github.com/DSW-47"   title="Go to Source">
-      <img align="center" width=800 src="https://github.com/DSW-47/DSW-47/assets/71650407/fb8786db-86cd-4477-b566-4eff8a47f68a" />
+      <img align="center" width=800 src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/291192052/original/1ecd2cec1c1a911cf223ec90474a074fc054d26a/do-professional-pixel-art-for-you.jpg" />
     </a>
 </div>
 
