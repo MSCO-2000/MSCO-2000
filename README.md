@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<h1 align="center">Hi 👾, I'm Martín Calderón</h1>
+<h2 align="center">Hi 👾, I'm Martín Calderón</h2>
 <h2 align="center">Full Stack Developer from México</h2>
 
 ### Welcome!
