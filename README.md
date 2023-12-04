@@ -71,8 +71,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
  <div align=center>
   
    <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=DSW-47&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
- 
-
   
  <!-- Mini  Lenguajes programación-->
 
@@ -94,8 +92,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <source media="(prefers-color-scheme: dark)" srcset="./snk.svg" />
   <img alt="github-snake" src="./snk.svg" />
 </picture>
-
-
   
   <img src="https://github-profile-trophy.vercel.app/?username=DSW-47&theme=juicyfresh&no-bg=true" />  
 
@@ -104,11 +100,9 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
   <img src="https://img.shields.io/github/stars/DSW-47?label=Stars" alt="stars">
 
-
   Profile visualizations:
   <img src="https://profile-counter.glitch.me/{DSW-47}/count.svg" alt="DSW-47 :: Visitor's Count" />
 
-  
 </div>
 
 <details align=center>
