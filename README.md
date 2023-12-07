@@ -82,11 +82,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 </div>
 
 
-
-
-
-
-
 <div align=center>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./snk.svg" />
