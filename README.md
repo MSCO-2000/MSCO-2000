@@ -88,8 +88,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <img alt="github-snake" src="./snk.svg" />
 </picture>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=ApoloMC&theme=juicyfresh&no-bg=true" />  
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ApoloMC&theme=juicyfresh&no-bg=true" /> 
 
   [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
 
