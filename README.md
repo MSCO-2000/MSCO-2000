@@ -94,7 +94,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
   <img src="https://img.shields.io/github/stars/MC-HASHCODE?label=Stars" alt="stars">
 
-  Profile visualizations:
+  Visualizations:
   <img src="https://profile-counter.glitch.me/{MC-HASHCODE}/count.svg" alt="MC-HASHCODE :: Visitor's Count" />
 
 </div>
@@ -103,7 +103,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 <summary>Extra</summary>
 
 ![Metrics](https://metrics.lecoq.io/MC-HASHCODE?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
- 
 
 </details>
 
