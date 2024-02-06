@@ -13,7 +13,7 @@
 
 ### Welcome!
 <div>
-  <a href="https://github.com/MC-HASHCODE" title="Go to Source">
+  <a href="https://github.com/MSCO-2000" title="Go to Source">
   <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
    </a>
 </div>
@@ -65,17 +65,17 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   
   ### ⚡ Github Stats ⚡
 
-<img src="https://myreadme.vercel.app/api/embed/MC-HASHCODE?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/MSCO-2000?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   
   <!-- mi perfil stats de racha-->
  <div align=center>
   
-   <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=MC-HASHCODE&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
+   <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=MSCO-2000&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
   
  <!-- Mini  Lenguajes programación-->
 
-  <a target="_blank" align=center rel="noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-HASHCODE&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact"   title="Go to Source">
-    <img  height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-HASHCODE&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact" alt="MC-HASHCODE" />
+  <a target="_blank" align=center rel="noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=MSCO-2000&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact"   title="Go to Source">
+    <img  height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSCO-2000&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact" alt="MSCO-2000" />
   </a>
   </div>
 
@@ -88,21 +88,21 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <img alt="github-snake" src="./snk.svg" />
 </picture>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=MC-HASHCODE&theme=juicyfresh&no-bg=true" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=MSCO-2000&theme=juicyfresh&no-bg=true" /> 
 
   [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
 
-  <img src="https://img.shields.io/github/stars/MC-HASHCODE?label=Stars" alt="stars">
+  <img src="https://img.shields.io/github/stars/MSCO-2000?label=Stars" alt="stars">
 
   Visualizations:
-  <img src="https://profile-counter.glitch.me/{MC-HASHCODE}/count.svg" alt="MC-HASHCODE :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{MSCO-2000}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
 
 </div>
 
 <details align=center>
 <summary>Extra</summary>
 
-![Metrics](https://metrics.lecoq.io/MC-HASHCODE?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/MSCO-2000?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 </details>
 
