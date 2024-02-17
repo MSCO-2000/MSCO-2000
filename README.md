@@ -97,16 +97,19 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   <img src="https://img.shields.io/github/stars/MSCO-2000?label=Stars" alt="stars">
 
   Visualizations:
+  
   <img src="https://profile-counter.glitch.me/{MSCO-2000}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
-
-   <img width=100 src="https://wakatime.com/share/@MSCO2000/29b99b21-fcbd-43c4-974f-33071a7897a1.svg" /> 
+   
+<div>
+   <img width=500 src="https://wakatime.com/share/@MSCO2000/29b99b21-fcbd-43c4-974f-33071a7897a1.svg" /> 
+</div>
 </div>
 
 
 <details align=center>
 <summary>Extra</summary>
 
-![Metrics](https://metrics.lecoq.io/MSCO-2000?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
 
 </details>
 
