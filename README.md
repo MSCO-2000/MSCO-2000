@@ -99,6 +99,8 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
 </div>
 
+<figure><embed src="https://wakatime.com/share/@MSCO2000/29b99b21-fcbd-43c4-974f-33071a7897a1.svg"></embed></figure>
+
 <details align=center>
 <summary>Extra</summary>
 
