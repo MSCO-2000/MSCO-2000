@@ -90,6 +90,8 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   
   <img src="https://github-profile-trophy.vercel.app/?username=MSCO-2000&theme=juicyfresh&no-bg=true" /> 
 
+   Total time coded since Aug 15 2023:
+   
   [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
 
   <img src="https://img.shields.io/github/stars/MSCO-2000?label=Stars" alt="stars">
@@ -97,9 +99,9 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   Visualizations:
   <img src="https://profile-counter.glitch.me/{MSCO-2000}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
 
+   <img width=100 src="https://wakatime.com/share/@MSCO2000/29b99b21-fcbd-43c4-974f-33071a7897a1.svg" /> 
 </div>
 
-<figure><embed src="https://wakatime.com/share/@MSCO2000/29b99b21-fcbd-43c4-974f-33071a7897a1.svg"></embed></figure>
 
 <details align=center>
 <summary>Extra</summary>
