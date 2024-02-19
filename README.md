@@ -109,7 +109,5 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 <details align=center>
 <summary>Extra</summary>
 
-
-
 </details>
 
