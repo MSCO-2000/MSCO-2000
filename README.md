@@ -64,8 +64,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 <div align=center>
   
   ### ⚡ Github Stats ⚡
-
-<img src="https://myreadme.vercel.app/api/embed/MSCO-2000?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   
   <!-- mi perfil stats de racha-->
  <div align=center>
@@ -93,12 +91,6 @@ Take a look at my online portfolio: https://CalderonWorks.pro
    Total time coded since Aug 15 2023:
    
   [![wakatime](https://wakatime.com/badge/user/25b1393c-7659-477a-b6de-4da0492e782b.svg)](https://wakatime.com/@25b1393c-7659-477a-b6de-4da0492e782b)
-
-  <img src="https://img.shields.io/github/stars/MSCO-2000?label=Stars" alt="stars">
-
-  Visualizations:
-  
-  <img src="https://profile-counter.glitch.me/{MSCO-2000}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
    
 <div>
    <img width=500 src="https://wakatime.com/share/@MSCO2000/29b99b21-fcbd-43c4-974f-33071a7897a1.svg" /> 
@@ -108,6 +100,15 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
 <details align=center>
 <summary>Extra</summary>
+
+
+<img src="https://myreadme.vercel.app/api/embed/MSCO-2000?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+Visualizations:
+
+<img src="https://img.shields.io/github/stars/MSCO-2000?label=Stars" alt="stars">
+  
+<img src="https://profile-counter.glitch.me/{MSCO-2000}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
 
 </details>
 
