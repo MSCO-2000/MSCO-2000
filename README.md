@@ -104,9 +104,9 @@ Take a look at my online portfolio: https://CalderonWorks.pro
 
 <img src="https://myreadme.vercel.app/api/embed/MSCO-2000?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-Visualizations:
-
 <img src="https://img.shields.io/github/stars/MSCO-2000?label=Stars" alt="stars">
+
+Visualizations:
   
 <img src="https://profile-counter.glitch.me/{MSCO-2000}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
 
