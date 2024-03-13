@@ -59,6 +59,7 @@ Take a look at my online portfolio: https://CalderonWorks.pro
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%23483699.svg?style=for-the-badge&logo=dart&logoColor=white)
 ####
 
 <div align=center>
